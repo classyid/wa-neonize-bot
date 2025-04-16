@@ -1,0 +1,4 @@
+neonize==0.1.0  # Sesuaikan dengan versi terbaru
+asyncio==3.4.3
+protobuf==4.25.3
+logging==0.5.1.2
