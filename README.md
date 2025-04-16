@@ -1,5 +1,7 @@
 # WA Neonize Bot 🤖📱
 
+![Nyobain](https://blog.classy.id/upload/gambar_berita/2224d3d66e8e9aeff2ec9c5d2548db18_20250416111653.png)
+
 ## Deskripsi
 Bot WhatsApp Python yang memanfaatkan library Neonize untuk membuat otomatisasi pesan sederhana. Bot ini mampu:
 - Terhubung ke WhatsApp Web
